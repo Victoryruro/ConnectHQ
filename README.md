@@ -22,9 +22,6 @@ A modern **news/blog website** built with React.js. It features multiple categor
 - **CSS** - Custom styling
 - **JavaScript (ES6+)**
 
-## 📸 Preview
-
-*(Add screenshots here later)*
 
 ## 🏗️ Installation & Setup
 
